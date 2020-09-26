@@ -1,0 +1,2 @@
+# Archivos/Carpetas que no queremos que se suban al repositorio
+users/secrets.json
